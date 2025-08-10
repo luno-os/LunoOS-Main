@@ -126,3 +126,8 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+
+# Additional packages
+
+base-devel
+git
