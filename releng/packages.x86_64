@@ -131,3 +131,5 @@ zsh
 
 base-devel
 git
+python
+networkmanager
