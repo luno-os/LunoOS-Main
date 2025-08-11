@@ -1,6 +1,6 @@
 # LunoOS-Main
 
-# DISCLAIMER: OS is still under early development
+### DISCLAIMER: OS is still under early development
 
 # ToDo-List:
   - Make a (flexible) installer with either bash or python
