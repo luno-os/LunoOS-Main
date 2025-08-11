@@ -133,3 +133,10 @@ base-devel
 git
 python
 networkmanager
+bluez
+bluez-utils
+plasma
+dolphin
+konsole
+firefox
+sddm
