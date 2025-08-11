@@ -1,7 +1,7 @@
 # LunoOS-Main
 
 ## DISCLAIMER: OS is still under early development
-Meaning: - Things may not exist or work as expected
+Meaning: Things may not exist or work as expected
 
 ## Development Update (11.08.2025):
   - Successfully implemented Live-user (luno-live) for:
