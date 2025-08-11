@@ -14,3 +14,4 @@ Meaning: Things may not exist or work as expected
 # ToDo-List:
   - Make a (flexible) installer with either bash or python
   - Include the option for a customized kernel during setup
+  - Test the ISO on real physical hardware
